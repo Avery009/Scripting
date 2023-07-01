@@ -1,0 +1,1 @@
+/Users/jamesaveryking/Library/Python/3.9/bin/django-admin startproject [project]
